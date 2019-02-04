@@ -585,6 +585,7 @@ namespace VstsSyncMigrator.Engine
                         Trace.Write($"Cannot find configuration with name [{sourceConfigName}] in target. Cannot assign tester to it.", "TestPlansAndSuites");
                     }
                 }
+                //I made a new chage
             }
 
             // assign the list to the suite
